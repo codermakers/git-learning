@@ -1,3 +1,4 @@
 [submodule "sub-a"]
 	path = sub-a
 	url = https://github.com/codermakers/sub-a.git
+	branch = dev
